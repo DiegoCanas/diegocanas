@@ -49,6 +49,3 @@
 
 ------
 
-Credit: [garbinmarcelo](https://github.com/garbinmarcelo)
-
-Last Edited on: 18/10/2021
