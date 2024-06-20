@@ -13,24 +13,26 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
----
-  
-<h3>Version Control & CI/CD</h3>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-github-white?logo=github&logoColor=181717&style=for-the-badge" alt="github"/></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-github_actions-white?logo=githubactions&logoColor=2088FF&style=for-the-badge" alt="githubactions"/></a>
-<a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/-gitlab-white?logo=gitlab&logoColor=FCA121&style=for-the-badge" alt="gitlab"/></a>
-<a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/-bitbucket-white?logo=bitbucket&logoColor=0052CC&style=for-the-badge" alt="bitbucket"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=2496ED&style=for-the-badge" alt="docker"/></a>
 
-<h3>Cloud & Hosting</h3>
 
-<a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/-amazon_aws-white?logo=amazonaws&logoColor=232F3E&style=for-the-badge" alt="amazonaws"/></a>
-<a href="https://cpanel.net/" target="_blank"><img src="https://img.shields.io/badge/-cpanel-white?logo=cpanel&logoColor=FF6C2C&style=for-the-badge" alt="cpanel"/></a>
-<a href="https://httpd.apache.org/" target="_blank"><img src="https://img.shields.io/badge/-apache-white?logo=apache&logoColor=D22128&style=for-the-badge" alt="apache"/></a>
-<a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/-nginx-white?logo=nginx&logoColor=009639&style=for-the-badge" alt="nginx"/></a>
+- ♾️ DevOps:
 
-<small><strong>*</strong> Studying and improving technology skills.</small>
+    ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+    ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+    ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+    ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+    ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+  - ☁️ Cloud:
+
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
