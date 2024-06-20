@@ -12,8 +12,9 @@
 
 ---
 
-<div align="center">
-<h2>Knowledge Base :hammer_and_wrench:</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<p align="center">
 
 <h3>Version Control & CI/CD</h3>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
