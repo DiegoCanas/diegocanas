@@ -7,10 +7,6 @@
 <li>:rocket: Let's keep coding!</li>
 </ul>
 <div align="center">
-<h3>Contact Me :handshake:</h3>
-<a href="https://github.com/DiegoCanas" target="_blank"></a>
-<a href="https://www.linkedin.com/in/diego-cañas-cameros-0142b8188/" target="_blank"></a>
-<br/><br/>
 </div>
 
 
@@ -22,7 +18,7 @@
 <h3>Version Control & CI/CD</h3>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-github-white?logo=github&logoColor=181717&style=for-the-badge" alt="github"/></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-github_actions*-white?logo=githubactions&logoColor=2088FF&style=for-the-badge" alt="githubactions"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-github_actions-white?logo=githubactions&logoColor=2088FF&style=for-the-badge" alt="githubactions"/></a>
 <a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/-gitlab-white?logo=gitlab&logoColor=FCA121&style=for-the-badge" alt="gitlab"/></a>
 <a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/-bitbucket-white?logo=bitbucket&logoColor=0052CC&style=for-the-badge" alt="bitbucket"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-docker-white?logo=docker&logoColor=2496ED&style=for-the-badge" alt="docker"/></a>
