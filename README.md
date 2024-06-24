@@ -3,7 +3,7 @@
 
 <ul style="list-style: none;">
 <li>:seedling: Currently working on improving myself and enjoying the way at the same time </li>
-<li>:spain: From Spain </li>
+<li>:🇪🇸: From Spain </li>
 <li>:rocket: Let's keep coding!</li>
 </ul>
 <div align="center">
@@ -26,6 +26,8 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+    ![Nexus](https://img.shields.io/badge/Nexus_Repository-2685BF?style=for-the-badge&logo=nexus&logoColor=white)
+    ![Artifactory](https://img.shields.io/badge/Artifactory-0071B3?style=for-the-badge&logo=jfrog&logoColor=white)
 
 
 - ☁️ Cloud:
